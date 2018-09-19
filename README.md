@@ -1,2 +1,2 @@
 # GistBox
-GistBox web app programmed using ReactJS and jQuery.
+GistBox web app (ReactJS and jQuery).
